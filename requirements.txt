@@ -2,3 +2,4 @@ streamlit
 groq
 requests
 firebase-admin
+Authlib
