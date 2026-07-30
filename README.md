@@ -59,7 +59,7 @@ IMGBB_API_KEY = "..."
 
 ## Team
 
-Built solo by [Munkar](https://github.com/quaarrd-cmyk) under the **Quaarrd** brand, forked and adapted from an existing project (Qwill AI) for this hackathon.
+Built solo by [YRY](https://github.com/quaarrd-cmyk) under the **Quaarrd** brand, forked and adapted from an existing project (Qwill AI) for this hackathon.
 
 ---
 
