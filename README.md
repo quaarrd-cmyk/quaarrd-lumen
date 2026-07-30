@@ -4,7 +4,7 @@ Built for the **Prometheus July AI Challenge** (Devpost)
 
 Lumen is an AI-powered tutor that explains any concept at the depth *you* actually need — then helps you lock it in with auto-generated diagrams, quizzes, and flashcards. No two learners are the same, so no explanation should be either.
 
-**Live app:** https://quaarrd-lumen-q7nhuzpaki4klpvct8knrn.streamlit.app/?code=LUM-CY2RZ
+**Live app:** https://quaarrd-lumen-q7nhuzpaki4klpvct8knrn.streamlit.app/
 
 ---
 
